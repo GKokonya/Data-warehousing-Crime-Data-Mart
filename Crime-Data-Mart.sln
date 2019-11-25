@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Crime-Data-Mart", "Crime-Data-Mart\Crime-Data-Mart.dtproj", "{81580F1C-83AB-4C0C-9BA1-2F1CE3870401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81580F1C-83AB-4C0C-9BA1-2F1CE3870401}.Development|Default.ActiveCfg = Development
+		{81580F1C-83AB-4C0C-9BA1-2F1CE3870401}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38494BE-DD69-4158-A39B-929F2E7D7C3B}
+	EndGlobalSection
+EndGlobal
